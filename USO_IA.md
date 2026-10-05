@@ -5,5 +5,5 @@ Durante el desarrollo de esta evaluación, se utilizó la herramienta de intelig
 ## Ámbitos de Utilización
 
 * **Estructuración y Organización:** Asistencia en la correcta disposición de las carpetas y subdirectorios del repositorio reproducible (`data/`, `analysis/`, `figures/`, `report/`).
-* **Redacción y Documentación:** Apoyo en la conceptualización, redacción y estructuración del archivo `README.md` principal del proyecto.
+* **Redacción y Documentación:** Apoyo en la conceptualización, redacción y estructuración de los archivos `README.md` y `USO_IA.md`.
 * **Guía Paso a Paso:** Consulta interactiva para asegurar el cumplimiento riguroso de los requisitos y el *checklist* exigido en la pauta de la evaluación.
