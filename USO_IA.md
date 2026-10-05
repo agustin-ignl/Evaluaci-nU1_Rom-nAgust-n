@@ -1,3 +1,9 @@
-# Uso de IA
-##En principio la IA utilizada fue Google Gemini, para ayudar en la creación de las carpetas y en la redacción del README.
-##La misma IA fue clave para seguir el paso a paso y poder cumplir con el check list
+# Registro de Uso de Inteligencia Artificial (USO_IA.md)
+
+Durante el desarrollo de esta evaluación, se utilizó la herramienta de inteligencia artificial **Google Gemini** como asistente de apoyo técnico y metodológico. 
+
+## Ámbitos de Utilización
+
+* **Estructuración y Organización:** Asistencia en la correcta disposición de las carpetas y subdirectorios del repositorio reproducible (`data/`, `analysis/`, `figures/`, `report/`).
+* **Redacción y Documentación:** Apoyo en la conceptualización, redacción y estructuración del archivo `README.md` principal del proyecto.
+* **Guía Paso a Paso:** Consulta interactiva para asegurar el cumplimiento riguroso de los requisitos y el *checklist* exigido en la pauta de la evaluación.
